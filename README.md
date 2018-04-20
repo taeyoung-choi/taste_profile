@@ -11,7 +11,9 @@ Amazon Product Data
 - Books Reviews: 22,507,155 ratings from 8,026,324 users.
 
 The number of unique users, who rated both Books and Digital Music: 207,448
+
 The number of unique albums that is been rated by the 207,448 users: 179,864
+
 Of those 179,864 albums, the number of albums that contains title information: 5,067
 
 Million Song Data
