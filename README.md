@@ -20,6 +20,8 @@ Million Song Data
 Joined Amazon Product data and Million Song data on "album name". Amazon Product Data gives ratings on Albums rather than individual songs. We create features on Albums by aggregating metadata of songs within Albums.
 
 #### Music Taste Profile
+- Weighted Average based on ratings for each user
+- Exponential Decay based on dates (older ratings carry less weight)
 
 #### Book Recommendation with Book Ratings
 ##### Approach
