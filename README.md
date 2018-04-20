@@ -21,24 +21,27 @@ Joined Amazon Product data and Million Song data on "album name". Amazon Product
 
 #### Music Taste Profile
 - Weighted Average based on ratings for each user
-- Exponential Decay based on dates (older ratings carry less weight)
+- Exponential Decay based on dates (older ratings carry less weights)
 
 #### Book Recommendation with Book Ratings
 ##### Approach
 - KNN on Rating Matrix
-
+- Matrix Factorization to create a dense matrix ?
+- Possible Similarities : Inner Product, Cosine Similarity, Pearson Correlation, Jaccard Similarity, Euclidean
+- Matrix Factorization to create a dense matrix ?
 ##### Evaluation
 
 
 #### Book Recommendation with Music Taste Profile
 ##### Approach
 - KNN on Music Taste Profile
+- Matrix Factorization for a fair comprison with Book Ratings Recommendation ?
 
 ##### Evaluation
 
 #### Book Recommendation with Book Ratings + Music Taste Profile
 ##### Approach
 - KNN on Rating Matrix + Music Taste Profile
-
+- Matrix Factorization to create a dense matrix ?
 ##### Evaluation
 
